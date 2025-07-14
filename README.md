@@ -5,7 +5,7 @@ Build a real-time chat app that responds using AI and retrieves knowledge from a
 
 ### 🎯 Objectives
 - Learn how to stream LLM outputs using streamText()
-- Learn what vector embeddings and vector store are
+- Utilize vector embeddings and vector store for similarity search
 - Use RAG (Retrieval-Augmented Generation) with Supabase vector search
 
 ---
