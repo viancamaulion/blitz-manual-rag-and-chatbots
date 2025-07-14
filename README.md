@@ -48,8 +48,8 @@ npm install @ai-sdk/openai@^1.3.23 @ai-sdk/react@^1.2.12 @supabase/supabase-js@^
 ## 🧪 Output
 
 Submit one of the following in the `#code-cuts` announcement thread:
+- Screenshot of your output (Loom, GIF, video, or image file)
 - GitHub repo with `README.md` (optional but it would be great!)
-- Screenshot of your output
 - Live demo (e.g., Vercel, Netlify) (optional)
 
 ---
