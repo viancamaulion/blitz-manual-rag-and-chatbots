@@ -1,11 +1,11 @@
 # ⚡ Code Cuts Blitz Activity: Build an RAG Chat App
 
 ### 🧠 Theme
-Build a **real-time chat app** that can:
-- 
+Build a real-time chat app that responds using AI and retrieves knowledge from a sample company database.
 
 ### 🎯 Objectives
--
+- Learn how to stream LLM outputs using streamText()
+- Use RAG (Retrieval-Augmented Generation) with Supabase vector search
 
 ---
 
@@ -16,7 +16,13 @@ In **1 hour**, create a **minimum viable RAG chat app** with the following featu
 
 #### ✅ Required Features
 1. **Basic real-time chat UI**
-   - 
+   - Show a list of messages and a message input box
+   - Responds using `streamText()`
+2. Uses RAG to augment responses
+   - Perform a vector search in Supabase using the sample embeddings
+   - Include the search result in the AI prompt
+  
+That’s it — no tools, no model switching, no complex setup.
 
 #### 🔧 Bonus Features (Optional)
 - 
