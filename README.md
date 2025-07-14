@@ -31,7 +31,7 @@ That’s it — no tools, no model switching, no complex setup.
 
 
 ### 🚀 Get some quick head start!
-##### ✅ [Recommended] Clone the boilerplate
+#### ✅ Recommended: Clone the boilerplate
 
 ```bash
 git clone git@github.com:viancamaulion/chatbot-rag-boilerplate.git
