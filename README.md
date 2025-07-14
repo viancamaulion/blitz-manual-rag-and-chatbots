@@ -71,7 +71,7 @@ Submit one of the following in the `#code-cuts` announcement thread:
 | Criteria | Description |
 |----------|-------------|
 | Creativity | Did the idea push beyond “just another chatbot”? |
-| Completion | Did it meet the 3 required features? |
+| Completion | Did it meet the required features? |
 | Code clarity | Is it understandable and maintainable? |
 | Presentation | Can they explain what they built and how? |
 | Bonus features | Any extra wow factor or polish? |
