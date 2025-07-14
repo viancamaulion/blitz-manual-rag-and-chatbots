@@ -1,1 +1,82 @@
-# blitz-manual-rag-and-chatbots
+# ⚡ Code Cuts Blitz Activity: Build an RAG Chat App
+
+### 🧠 Theme
+Build a **real-time chat app** that can:
+- 
+
+### 🎯 Objectives
+-
+
+---
+
+## 🧩 The Challenge
+
+### Your mission:  
+In **1 hour**, create a **minimum viable RAG chat app** with the following features:
+
+#### ✅ Required Features
+1. **Basic real-time chat UI**
+   - 
+
+#### 🔧 Bonus Features (Optional)
+- 
+
+### 🚀 Get some quick head start!
+
+##### You can also do it from Scratch if you want it this way
+
+```bash
+npm install @ai-sdk/openai@^1.3.23 @ai-sdk/react@^1.2.12 @supabase/supabase-js@^2.50.5 ai@^4.3.17 dotenv@^17.2.0 lucide-react@^0.525.0 next@15.3.5 openai@^5.9.0 react@^19.0.0 react-dom@^19.0.0 react-markdown@^10.1.0 && npm install -D @eslint/eslintrc@^3 @tailwindcss/postcss@^4 @types/node@^20 @types/react@^19 @types/react-dom@^19 eslint@^9 eslint-config-next@15.3.5 tailwindcss@^4 tsx@^4.20.3 typescript@^5
+```
+##### or you can clone the boilerplate
+
+```bash
+git clone git@github.com:viancamaulion/chatbot-rag-boilerplate.git
+```
+
+---
+
+## 🧪 Output
+
+Submit one of the following in the `#code-cuts` channel:
+- GitHub repo with `README.md` (optional but it would be great!)
+- Live demo (e.g., Vercel, Netlify) (optional)
+
+---
+
+## 🕐 Event Flow
+
+| Time          | Activity |
+|---------------|----------|
+| `T+0 min`     | Assembly & Kick-off – Host explains activity |
+| `T+15 min`    | Check attendance, questions allowed |
+| `T+30 min`    | Halftime Check-in – Organizers go around and check in |
+| `T+60 min`    | End of activity – Host calls for submissions |
+| `T+60–90 min` | Presentations & Feedback (Volunteers share their work) |
+
+---
+
+## 📋 Judging Criteria (Just for feedback, not ranking)
+
+| Criteria | Description |
+|----------|-------------|
+| Creativity | Did the idea push beyond “just another chatbot”? |
+| Completion | Did it meet the 3 required features? |
+| Code clarity | Is it understandable and maintainable? |
+| Presentation | Can they explain what they built and how? |
+| Bonus features | Any extra wow factor or polish? |
+
+---
+
+## 📚 Reference Links
+- [RAG | AI SDK Docs](https://ai-sdk.dev/cookbook/guides/rag-chatbot)
+- [Embeddings | AI SDK Docs](https://ai-sdk.dev/docs/ai-sdk-core/embeddings)
+- [streamText() | AI SDK Docs](https://ai-sdk.dev/docs/reference/ai-sdk-core/stream-text#streamtext)
+- [streamObject() | AI SDK Docs](https://ai-sdk.dev/docs/reference/ai-sdk-core/stream-object)
+- [useChat() | AI SDK Docs](https://ai-sdk.dev/docs/reference/ai-sdk-ui/use-chat)
+
+
+---
+
+🛎️ **Reminder:** Submit your work to `#code-cuts` even if it's incomplete.  
+🎤 Be ready to present or explain what you tried.
