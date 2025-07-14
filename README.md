@@ -25,7 +25,9 @@ In **1 hour**, create a **minimum viable RAG chat app** with the following featu
 That’s it — no tools, no model switching, no complex setup.
 
 #### 🔧 Bonus Features (Optional)
-- 
+- A card component that displays companies
+   <img width="791" height="615" alt="image" src="https://github.com/user-attachments/assets/02cbd7ba-2a35-4d07-b480-941165a83656" />
+
 
 ### 🚀 Get some quick head start!
 
