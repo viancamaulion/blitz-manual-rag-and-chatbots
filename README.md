@@ -19,9 +19,10 @@ In **1 hour**, create a **minimum viable RAG chat app** with the following featu
 1. **Basic real-time chat UI**
    - Show a list of messages and a message input box
    - Responds using `streamText()`
-2. Uses RAG to augment responses
+2. **Uses RAG to augment responses**
    - Perform a vector search using a matcher function in Supabase using the sample embeddings
    - Stream the search result in the AI prompt
+   - A sample database containing vector embeddings, sample data, and matcher function will be provided for faster RAG set-up
   
 That’s it — no tools, no model switching, no complex setup.
 
