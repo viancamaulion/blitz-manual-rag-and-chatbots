@@ -37,7 +37,7 @@ That’s it — no tools, no model switching, no complex setup.
 ```bash
 git clone git@github.com:viancamaulion/chatbot-rag-boilerplate.git
 ```
-#### 🧩 Optional Path: Set Up Your Own Supabase Instance & Project (⚠️ Recommended Only if You Want Full Control — Setup Takes More Time)
+#### 🧩 Optional & Advanced Path: Set Up Your Own Supabase Instance & Project (⚠️ Recommended Only if You Want Full Control — Setup Takes More Time)
 
 ```bash
 npm install @ai-sdk/openai@^1.3.23 @ai-sdk/react@^1.2.12 @supabase/supabase-js@^2.50.5 ai@^4.3.17 dotenv@^17.2.0 lucide-react@^0.525.0 next@15.3.5 openai@^5.9.0 react@^19.0.0 react-dom@^19.0.0 react-markdown@^10.1.0 && npm install -D @eslint/eslintrc@^3 @tailwindcss/postcss@^4 @types/node@^20 @types/react@^19 @types/react-dom@^19 eslint@^9 eslint-config-next@15.3.5 tailwindcss@^4 tsx@^4.20.3 typescript@^5
