@@ -1,7 +1,8 @@
 # ⚡ Code Cuts Blitz Activity: Build an RAG Chat App
 
 ### 🧠 Theme
-Build a real-time chat app that responds using AI and retrieves knowledge from a sample company database.
+Build a real-time chat app that responds using AI and retrieves knowledge from a sample database. 
+You can use the provided database, so you won't need to set it up, or you can create your database.
 
 ### 🎯 Objectives
 - Learn how to stream LLM outputs using streamText()
